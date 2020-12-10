@@ -13,6 +13,11 @@ public class QueensAttack {
 		int upwardDistance = 0, downwardDistance = 0, leftDistance = 0, rightDistance = 0;
 		int northEastDist = 0, northWestDist = 0, southWestDist = 0, southEastDist = 0;
 		
+		
+		return 0;
+	}
+	
+	private static int calculateDistanceBetweenTwoPoints(int x1, int y1, int x2, int y2) {
 		return 0;
 	}
 	
