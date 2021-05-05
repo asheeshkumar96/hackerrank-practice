@@ -12,6 +12,7 @@ public class TwoCharacters {
 	// Complete the alternate function below.
     static int alternate(String s) {
     	return 0;
+    	
     }
 
     public static void main(String[] args) throws IOException {
